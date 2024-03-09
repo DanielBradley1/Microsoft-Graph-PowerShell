@@ -37,6 +37,8 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [PSMSALNet](https://github.com/SCOMnewbie/PSMSALNet?tab=readme-ov-file) - A PowerShell module for MSAL.NET which can be used to obtain access tokens for Microsoft Graph.
 
 ## Follow on LinkedIn
+- [Daniel Bradley - MVP)(https://www.linkedin.com/in/danielbradley2/)
+- [Merill Fernando - Microsoft Entra Principal Product Manager](https://www.linkedin.com/in/merill/)
 
 ## Follow on Twitter
 - [Steve Mutungi - Microsoft Graph PowerShell Product Lead](https://twitter.com/SteveMutungiKE)
