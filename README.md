@@ -1,7 +1,7 @@
 # Microsoft Graph PowerShell
 
 
-$${\color{greenyellow}Resources \space for \space Microsoft \space Graph \space PowerShell \space including \space Guides, \space Blogs, \space Books \space and \space Tools.}$$
+> Resource for Microsoft Graph PowerShell
 
 ```
 > by Daniel Bradley
