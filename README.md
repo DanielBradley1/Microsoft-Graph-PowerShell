@@ -1,3 +1,12 @@
+# Microsoft Graph PowerShell
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 
 ## Change Log
 - [Version releases](https://github.com/microsoftgraph/msgraph-sdk-powershell/releases) - Microsoft Graph PowerShell SDK version release history on GitHub.
