@@ -1,6 +1,5 @@
 # Microsoft Graph PowerShell
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
+$${\color{blue}A list of tools, links, influencers, guides and books for Microsoft Graph PowerShell
 
 
 ## Change Log
