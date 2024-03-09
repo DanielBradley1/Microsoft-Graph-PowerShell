@@ -39,5 +39,6 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 ## Follow on LinkedIn
 
 ## Follow on Twitter
+- [Steve Mutungi - Microsoft Graph PowerShell Product Lead](https://twitter.com/SteveMutungiKE)
 
 ## Community blogs
