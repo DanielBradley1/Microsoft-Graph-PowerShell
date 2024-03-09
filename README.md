@@ -27,4 +27,4 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 
 - [GraphRunner](https://github.com/dafthack/GraphRunner/) - GraphRunner is a post-exploitation toolset for interacting with the Microsoft Graph API.
 - [MiniGraph](https://github.com/FriedrichWeinmann/MiniGraph) - The MiniGraph module is designed as a minimal overhead Microsoft Graph client implementation
-- [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - Think of this PS-module as a helper for Microsoft Graph version-management, connectivity and data management using Microsoft Graph
+- [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - A helper for Microsoft Graph version-management, connectivity and data management using Microsoft Graph.
