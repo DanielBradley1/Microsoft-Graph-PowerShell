@@ -2,11 +2,7 @@
 
 
 > A list of resources for Microsoft Graph PowerShell
-
-```
-by Daniel Bradley - https://ourcloudnetwork.co.uk
-Contributions welcome
-```
+_ by Daniel Bradley - ourcloudnetwork.com_
 
 ## Change Log
 - [Version releases](https://github.com/microsoftgraph/msgraph-sdk-powershell/releases) - Microsoft Graph PowerShell SDK version release history on GitHub.
