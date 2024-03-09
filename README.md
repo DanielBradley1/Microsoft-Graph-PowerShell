@@ -3,9 +3,7 @@
 
 
 
-
-> A list of resources for Microsoft Graph PowerShell
-
+A list of resources for Microsoft Graph PowerShell
 *by Daniel Bradley - ourcloudnetwork.com*
 
 ## Menu
