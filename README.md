@@ -1,4 +1,4 @@
-$${\color{green yellow}A \space list \space of \space useful \space resources \space for \space Microsoft \space Graph \space PowerShell \space including \space Guides, \space Blogs, \space Books \space and \space Tools.}$$
+$${\color{greenyellow}A \space list \space of \space useful \space resources \space for \space Microsoft \space Graph \space PowerShell \space including \space Guides, \space Blogs, \space Books \space and \space Tools.}$$
 
 <code style="color : name_color"> # Microsoft Graph PowerShell </code>
 > by Daniel Bradley
