@@ -1,5 +1,6 @@
 # Microsoft Graph PowerShell
-$${\color{blue}A list of tools, links, influencers, guides and books for Microsoft Graph PowerShell
+
+$${\color{blue}A list of tools, links, influencers, guides and books for Microsoft Graph PowerShell \space
 
 
 ## Change Log
