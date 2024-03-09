@@ -1,11 +1,11 @@
 # Microsoft Graph PowerShell
 
 
-> A list of resources for Microsoft Graph PowerShell including Blogs, Guides, Tools and Books
+> A list of resources for Microsoft Graph PowerShell
 
 ```
-> by Daniel Bradley
-> [https://ourcloudnetwork.co.uk](https://ourcloudnetwork.co.uk)
+by Daniel Bradley - https://ourcloudnetwork.co.uk
+Contributions welcome
 ```
 
 ## Change Log
