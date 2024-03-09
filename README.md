@@ -2,6 +2,7 @@
 
 
 > A list of resources for Microsoft Graph PowerShell
+
 _ by Daniel Bradley - ourcloudnetwork.com_
 
 ## Change Log
