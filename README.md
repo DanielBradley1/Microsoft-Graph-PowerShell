@@ -1,6 +1,6 @@
 $${\color{aqua}A \space list \space of \space useful \space resources \space for \space Microsoft \space Graph \space PowerShell \space including \space Guides, \space Blogs, \space Books \space and \space Tools.}$$
 
-# Microsoft Graph PowerShell
+<code style="color : name_color"> # Microsoft Graph PowerShell </code>
 > by Daniel Bradley
 
 > [https://ourcloudnetwork.co.uk](https://ourcloudnetwork.co.uk)
