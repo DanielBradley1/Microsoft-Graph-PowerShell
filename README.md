@@ -1,7 +1,7 @@
 # Microsoft Graph PowerShell
 
 
-> Resources for Microsoft Graph PowerShell, including Blogs, Guides, Tools and Books
+> A list of resources for Microsoft Graph PowerShell including Blogs, Guides, Tools and Books
 
 ```
 > by Daniel Bradley
