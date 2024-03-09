@@ -1,6 +1,5 @@
 # Microsoft Graph PowerShell 
-![Gitea Last Commit](https://img.shields.io/gitehub/last-commit/DanielBradley1/https%3A%2F%2Fgithub.com%2FDanielBradley1%2FAll-Enterprise-App-Catalog-Apps-List.git)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/DanielBradley1/All-Enterprise-App-Catalog-Apps-List)
 
 
 
