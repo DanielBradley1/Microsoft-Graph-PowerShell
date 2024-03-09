@@ -1,6 +1,6 @@
 # Microsoft Graph PowerShell
 
-$${\color{lightgreen}A \space list \space of \spaceuseful \spaceresources \spacefor \spaceMicrosoft Graph PowerShell including Guides, Blogs, Books and Tools.}$$
+$${\color{lightgreen}A \space list \space of \space useful \space resources \space for \space Microsoft \space Graph \space PowerShell \space including \space Guides, \space Blogs, \space Books and \space Tools.}$$
 
 ## Change Log
 - [Version releases](https://github.com/microsoftgraph/msgraph-sdk-powershell/releases) - Microsoft Graph PowerShell SDK version release history on GitHub.
