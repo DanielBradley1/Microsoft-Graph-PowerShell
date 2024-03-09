@@ -1,5 +1,6 @@
 # Microsoft Graph PowerShell 
-![Gitea Last Commit](https://img.shields.io/gitea/last-commit/DanielBradley1/Microsoft-Graph-PowerShell)
+![Gitea Last Commit](https://img.shields.io/gitea/last-commit/DanielBradley1/All-Enterprise-App-Catalog-Apps-List)
+
 
 
 
