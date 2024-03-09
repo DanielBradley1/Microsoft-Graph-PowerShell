@@ -1,5 +1,5 @@
-# Microsoft Graph PowerShell 
-![GitHub last commit](https://img.shields.io/github/last-commit/DanielBradley1/All-Enterprise-App-Catalog-Apps-List)
+# Microsoft Graph PowerShell [![GitHub last commit](https://img.shields.io/github/last-commit/DanielBradley1/All-Enterprise-App-Catalog-Apps-List)]
+
 
 
 
