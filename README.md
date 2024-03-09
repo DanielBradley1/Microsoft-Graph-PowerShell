@@ -1,9 +1,7 @@
 # Microsoft Graph PowerShell ![GitHub last commit](https://img.shields.io/github/last-commit/DanielBradley1/All-Enterprise-App-Catalog-Apps-List)
 
 
-
-
-A list of resources for Microsoft Graph PowerShell
+A list of Microsoft and community resources for Microsoft Graph PowerShell.
 
 *by Daniel Bradley - ourcloudnetwork.com*
 
