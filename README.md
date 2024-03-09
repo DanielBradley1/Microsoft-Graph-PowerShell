@@ -1,7 +1,6 @@
 # Microsoft Graph PowerShell
 
-$${\color{blue}A list of tools, links, influencers, guides and books for Microsoft Graph PowerShell \space
-
+$${\color{blue}A list of tools, links, influencers, guides and books for Microsoft Graph PowerShell }$$
 
 ## Change Log
 - [Version releases](https://github.com/microsoftgraph/msgraph-sdk-powershell/releases) - Microsoft Graph PowerShell SDK version release history on GitHub.
