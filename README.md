@@ -54,8 +54,10 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 ## Community blogs
 - [andrewstaylor.com](https://andrewstaylor.com/)
 - [ourcloudnetwork.com](https://ourcloudnetwork.com/)
-- 
 
 ## Books
+- [Microsoft Graph PowerShell for Administrators](https://danielbradley.gumroad.com/l/MicrosoftGraphPowerShell) - Microsoft Graph PowerShell focused - 15% off with code: **MGPRESOURCES15**
+- [Microsoft Intune Cookbook](https://www.amazon.co.uk/Microsoft-Intune-Cookbook-configuring-automating-ebook/dp/B0CHYT35SJ) - Microsoft Intune focused
+- [Office 365 for it pros](https://o365itpros.gumroad.com/l/O365IT?layout=profile) - General Microsoft 365 focused
 
 ## Posts you need to read
