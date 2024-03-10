@@ -30,6 +30,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 
 ## Community Tools
 
+- [EntraExporter](https://github.com/microsoft/entraexporter) - Module to export Entra and B2C configurations which utilises Microsoft Graph PowerShell
 - [Graph PowerShell Conversion Analyzer](https://graphpowershell.merill.net/) - Get help converting your MSOnline and Azure AD PowerShell script to Graph PowerShell.
 - [GraphRunner](https://github.com/dafthack/GraphRunner/) - GraphRunner is a post-exploitation toolset for interacting with the Microsoft Graph API.
 - [Graph X-Ray](https://graphxray.merill.net/) - View the Graph API and PowerShell log of actions taken in the Azure Active Directory and Intune portal.
