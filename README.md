@@ -34,7 +34,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [GraphRunner](https://github.com/dafthack/GraphRunner/) - GraphRunner is a post-exploitation toolset for interacting with the Microsoft Graph API.
 - [Graph X-Ray](https://graphxray.merill.net/) - View the Graph API and PowerShell log of actions taken in the Azure Active Directory and Intune portal.
 - [MiniGraph](https://github.com/FriedrichWeinmann/MiniGraph) - The MiniGraph module is designed as a minimal overhead Microsoft Graph client implementation
-- [Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/) - View the APIs that are enabled and the data objects exposed to the calling application for each permission.
+- [Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/) - View the APIs that are enabled and the data objects exposed for each permission.
 - [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - A helper for Microsoft Graph version management, connectivity and data management using Microsoft Graph.
 - [PSMSGraphBatchRequest](https://github.com/HCRitter/PSMSGraphBatchRequest) - Convert Microsoft Graph data into batch requests.
 - [PSMSALNet](https://github.com/SCOMnewbie/PSMSALNet?tab=readme-ov-file) - A PowerShell module for MSAL.NET which can be used to obtain access tokens for Microsoft Graph.
