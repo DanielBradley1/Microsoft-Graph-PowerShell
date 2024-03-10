@@ -27,6 +27,9 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [Cmdlet map for AzureAD and MSOnline](https://learn.microsoft.com/en-us/powershell/microsoftgraph/azuread-msoline-cmdlet-map?view=graph-powershell-1.0)
 - [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 - [Graph PowerShell Samples](https://github.com/orgs/msgraph/discussions)
+- [Azure AD Graph app migration planning checklist](https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-planning-checklist)
+- [zure AD Graph to Microsoft Graph migration FAQ](https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-faq)
+- [Microsoft Graph Q&A](https://learn.microsoft.com/en-us/answers/tags/161/ms-graph)
 
 ## Community Tools
 
@@ -37,6 +40,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [MiniGraph](https://github.com/FriedrichWeinmann/MiniGraph) - The MiniGraph module is designed as a minimal overhead Microsoft Graph client implementation
 - [Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/) - View the APIs that are enabled and the data objects exposed for each permission.
 - [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - A helper for Microsoft Graph version management, connectivity and data management using Microsoft Graph.
+- [PSAzureMigrationAdvisor](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor)
 - [PSMSGraphBatchRequest](https://github.com/HCRitter/PSMSGraphBatchRequest) - Convert Microsoft Graph data into batch requests.
 - [PSMSALNet](https://github.com/SCOMnewbie/PSMSALNet?tab=readme-ov-file) - A PowerShell module for MSAL.NET which can be used to obtain access tokens for Microsoft Graph.
 
@@ -58,6 +62,8 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 ## Community blogs
 - [andrewstaylor.com](https://andrewstaylor.com/)
 - [ourcloudnetwork.com](https://ourcloudnetwork.com/)
+- [powershellisfun.com](https://powershellisfun.com/)
+- [The Lazy Administrator](https://www.thelazyadministrator.com/)
 
 ## Books
 - [Microsoft Graph PowerShell for Administrators](https://danielbradley.gumroad.com/l/MicrosoftGraphPowerShell) - Microsoft Graph PowerShell focused - 15% off with code: **MGPRESOURCES15**
