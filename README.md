@@ -45,7 +45,9 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [Merill Fernando](https://www.linkedin.com/in/merill/) - Principal Product Manager @ Microsoft (Microsoft Entra)
 
 ## Follow on Twitter
+- [Daniel Bradley](https://twitter.com/DanielatOCN) - MVP
 - [Steve Mutungi](https://twitter.com/SteveMutungiKE) - Product Lead @ Microsoft (Microsoft Graph PowerShell)
+- [Merill Fernando](https://twitter.com/merill) - Principal Product Manager @ Microsoft (Microsoft Entra)
 
 ## Community blogs
 
