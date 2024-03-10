@@ -40,7 +40,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [MiniGraph](https://github.com/FriedrichWeinmann/MiniGraph) - The MiniGraph module is designed as a minimal overhead Microsoft Graph client implementation
 - [Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/) - View the APIs that are enabled and the data objects exposed for each permission.
 - [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - A helper for Microsoft Graph version management, connectivity and data management using Microsoft Graph.
-- [PSAzureMigrationAdvisor](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor)
+- [PSAzureMigrationAdvisor](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor) - This toolkit will help you search your scripts for code that needs to be migrated to Microsoft Graph.
 - [PSMSGraphBatchRequest](https://github.com/HCRitter/PSMSGraphBatchRequest) - Convert Microsoft Graph data into batch requests.
 - [PSMSALNet](https://github.com/SCOMnewbie/PSMSALNet?tab=readme-ov-file) - A PowerShell module for MSAL.NET which can be used to obtain access tokens for Microsoft Graph.
 
