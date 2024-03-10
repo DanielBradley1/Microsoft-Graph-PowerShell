@@ -1,6 +1,5 @@
 # Microsoft Graph PowerShell ![GitHub last commit](https://img.shields.io/github/last-commit/DanielBradley1/All-Enterprise-App-Catalog-Apps-List)
 
-
 A list of Microsoft and community resources for Microsoft Graph PowerShell.
 
 *by Daniel Bradley - ourcloudnetwork.com*
@@ -15,9 +14,6 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [Community blogs](#Community-blogs)
 - [Books](#Books)
 - [Posts you need to read](#Posts-you-need-to-read)
-
-
-
 
 ## Change Log
 
@@ -45,11 +41,20 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [Merill Fernando](https://www.linkedin.com/in/merill/) - Principal Product Manager @ Microsoft (Microsoft Entra)
 
 ## Follow on Twitter
+- [Aleksandar Nikolić](https://twitter.com/alexandair) - MVP
 - [Daniel Bradley](https://twitter.com/DanielatOCN) - MVP
-- [Steve Mutungi](https://twitter.com/SteveMutungiKE) - Product Lead @ Microsoft (Microsoft Graph PowerShell)
+- [Dr. Nestori Syynimaa](https://twitter.com/DrAzureAD) - Principal Identity Security Researcher @ Microsoft
 - [Merill Fernando](https://twitter.com/merill) - Principal Product Manager @ Microsoft (Microsoft Entra)
+- [Steve Mutungi](https://twitter.com/SteveMutungiKE) - Product Lead @ Microsoft (Microsoft Graph PowerShell)
+- [Tony Redmond](https://twitter.com/12Knocksinna) - MVP
+- [Nathan McNulty](https://twitter.com/NathanMcNulty)
+- [Nicola Suter](https://twitter.com/nicolonsky)
+
 
 ## Community blogs
+- [andrewstaylor.com](https://andrewstaylor.com/)
+- [ourcloudnetwork.com](https://ourcloudnetwork.com/)
+- 
 
 ## Books
 
