@@ -46,7 +46,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - A helper for Microsoft Graph version management, connectivity and data management using Microsoft Graph.
 - [PSAzureMigrationAdvisor](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor) - This toolkit will help you search your scripts for code that needs to be migrated to Microsoft Graph.
 - [PSMSGraphBatchRequest](https://github.com/HCRitter/PSMSGraphBatchRequest) - Convert Microsoft Graph data into batch requests.
-- [PSMSALNet](https://github.com/SCOMnewbie/PSMSALNet?tab=readme-ov-file) - A PowerShell module for MSAL.NET which can be used to obtain access tokens for Microsoft Graph.
+- [PSMSALNet](https://github.com/SCOMnewbie/PSMSALNet?tab=readme-ov-file) - A PowerShell module for MSAL.NET which can be used to obtain access tokens for Microsoft Graph using WAM.
 - [TokenTactics](https://github.com/rvrsh3ll/TokenTactics) - Obtain access tokens from Microsoft Graph.
 
 ## Follow on LinkedIn
