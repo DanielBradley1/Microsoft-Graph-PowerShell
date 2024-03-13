@@ -28,7 +28,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 - [Graph PowerShell Samples](https://github.com/orgs/msgraph/discussions)
 - [Azure AD Graph app migration planning checklist](https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-planning-checklist)
-- [zure AD Graph to Microsoft Graph migration FAQ](https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-faq)
+- [Azure AD Graph to Microsoft Graph migration FAQ](https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-faq)
 - [Microsoft Graph Q&A](https://learn.microsoft.com/en-us/answers/tags/161/ms-graph)
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit?tab=readme-ov-file)
 
