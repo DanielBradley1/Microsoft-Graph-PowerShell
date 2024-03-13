@@ -83,4 +83,3 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [How to Send Emails Using Microsoft Graph PowerShell](https://ourcloudnetwork.com/how-to-send-emails-using-microsoft-graph-powershell/)
 - [Improve Microsoft Graph PowerShell Performance with Batching](https://ourcloudnetwork.com/improve-microsoft-graph-powershell-performance-with-batching/)
 - [How to Use -Filter with Microsoft Graph PowerShell](https://ourcloudnetwork.com/how-to-use-filter-with-microsoft-graph-powershell/)
-- 
