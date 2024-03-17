@@ -41,6 +41,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [Graph X-Ray](https://graphxray.merill.net/) - View the Graph API and PowerShell log of actions taken in the Azure Active Directory and Intune portal.
 - [IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - Provides a detailed overview of Intune assignments with Microsoft Graph PowerShell.
 - [IntuneOffboarding](https://github.com/ugurkocde/IntuneOffboarding) - Quickly offboard devices in Intune using Microsoft Graph PowerShell.
+- [IntuneScriptViewer](https://github.com/SMSAgentSoftware/IntuneScriptsViewer) - App to view scripts in Microsoft Intune.
 - [MiniGraph](https://github.com/FriedrichWeinmann/MiniGraph) - The MiniGraph module is designed as a minimal overhead Microsoft Graph client implementation
 - [Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/) - View the APIs that are enabled and the data objects exposed for each permission.
 - [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - A helper for Microsoft Graph version management, connectivity and data management using Microsoft Graph.
