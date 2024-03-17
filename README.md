@@ -51,19 +51,24 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 - [TokenTactics](https://github.com/rvrsh3ll/TokenTactics) - Obtain access tokens from Microsoft Graph.
 
 ## Follow on LinkedIn
+- [Bradley Wyatt](https://www.linkedin.com/in/bradleywyatt/) - MVP
 - [Daniel Bradley](https://www.linkedin.com/in/danielbradley2/) - MVP
 - [Merill Fernando](https://www.linkedin.com/in/merill/) - Principal Product Manager @ Microsoft (Microsoft Entra)
+- [Sander Rozemuller](https://www.linkedin.com/in/sanderrozemuller/) - MVP
+- [Tom Wechsler](https://www.linkedin.com/in/tom-wechsler/) - MVP
 - [Ugur Koc](https://www.linkedin.com/in/ugurkocde/)
 
 ## Follow on Twitter
 - [Aleksandar Nikolić](https://twitter.com/alexandair) - MVP
 - [Daniel Bradley](https://twitter.com/DanielatOCN) - MVP
 - [Dr. Nestori Syynimaa](https://twitter.com/DrAzureAD) - Principal Identity Security Researcher @ Microsoft
+- [Jan Vidar Elven](https://twitter.com/JanVidarElven) - MVP
 - [Merill Fernando](https://twitter.com/merill) - Principal Product Manager @ Microsoft (Microsoft Entra)
 - [Steve Mutungi](https://twitter.com/SteveMutungiKE) - Product Lead @ Microsoft (Microsoft Graph PowerShell)
 - [Tony Redmond](https://twitter.com/12Knocksinna) - MVP
 - [Nathan McNulty](https://twitter.com/NathanMcNulty)
 - [Nicola Suter](https://twitter.com/nicolonsky)
+- [Ugur Koc](https://twitter.com/UgurKocDe)
 
 
 ## Community blogs
