@@ -34,7 +34,8 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 
 ## Community Tools
 
-- [EntraExporter](https://github.com/microsoft/entraexporter) - Module to export Entra and B2C configurations which utilises Microsoft Graph PowerShell
+- [EntraAuth](https://github.com/FriedrichWeinmann/EntraAuth) - Lightweight alternative for MSAL.PS to obtain access tokens for Microsoft Graph.
+- [EntraExporter](https://github.com/microsoft/entraexporter) - Module to export Entra and B2C configurations which utilises Microsoft Graph PowerShell.
 - [ExoGraphGUI](https://github.com/DrummerViking/ExoGraphGUI/) - Graph tool to perform different operations in Exchange Online.
 - [Graph PowerShell Conversion Analyzer](https://graphpowershell.merill.net/) - Get help converting your MSOnline and Azure AD PowerShell script to Graph PowerShell.
 - [GraphRunner](https://github.com/dafthack/GraphRunner/) - GraphRunner is a post-exploitation toolset for interacting with the Microsoft Graph API.
@@ -53,6 +54,7 @@ A list of Microsoft and community resources for Microsoft Graph PowerShell.
 ## Follow on LinkedIn
 - [Bradley Wyatt](https://www.linkedin.com/in/bradleywyatt/) - MVP
 - [Daniel Bradley](https://www.linkedin.com/in/danielbradley2/) - MVP
+- [Friedrich Weinmann](https://twitter.com/FredWeinmann)
 - [Merill Fernando](https://www.linkedin.com/in/merill/) - Principal Product Manager @ Microsoft (Microsoft Entra)
 - [Sander Rozemuller](https://www.linkedin.com/in/sanderrozemuller/) - MVP
 - [Tom Wechsler](https://www.linkedin.com/in/tom-wechsler/) - MVP
